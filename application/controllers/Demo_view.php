@@ -4,6 +4,8 @@ class Demo_view extends CI_Controller{
 		$this->load->view('headerview');
 		$this->load->view('contentview');
 		$this->load->view('footerview');
+		
+		
 	}
 }
 ?>
